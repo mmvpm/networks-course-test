@@ -136,23 +136,26 @@ todo
 #### ICMP-заголовок
 
 <table>
-    <style>
-        th, td {
-            text-align: center; 
-            vertical-align: middle;
-        }
-    </style>
     <thead>
         <tr>
-            <th>Биты</th> <th>160-167</th> <th>168-175</th> <th>176-183</th> <th>184-191</th>
+            <th>Биты</th>
+            <th>160-167</th>
+            <th>168-175</th>
+            <th>176-183</th>
+            <th>184-191</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><b>160</B></td> <td>Тип</td> <td>Код</td> <td colspan=2>Контрольная сумма</td>
+            <td align="center"><b>160</B></td>
+            <td align="center">Тип</td>
+            <td align="center">Код</td>
+            <td align="center" colspan=2>Контрольная сумма</td>
         </tr>
         <tr>
-            <td><b>192</b></td> <td colspan=2>Идентификатор</td> <td colspan=2>Номер последовательности</td>
+            <td align="center"><b>192</b></td>
+            <td align="center" colspan=2>Идентификатор</td>
+            <td align="center" colspan=2>Номер последовательности</td>
         </tr>
     </tbody>
 </table>
