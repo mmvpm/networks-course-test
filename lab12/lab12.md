@@ -64,7 +64,7 @@ UDP, а также выводит количество потерянных па
 ### 1. Измерение по протоколу TCP (3 балла)
 Пример интерфейса:
 
-<img src="images/tcp.png" width=600 />
+<img src="images/tcp.png" width=700 />
 
 #### Демонстрация работы
 todo
@@ -72,7 +72,7 @@ todo
 ### 2. Измерение по протоколу UDP (3 балла)
 Пример интерфейса:
 
-<img src="images/udp.png" width=600 />
+<img src="images/udp.png" width=700 />
 
 #### Демонстрация работы
 todo
@@ -87,7 +87,7 @@ todo
 
 Пример GUI:
 
-<img src="images/port-translator.png" width=500 />
+<img src="images/port-translator.png" width=600 />
 
 #### Демонстрация работы
 todo
